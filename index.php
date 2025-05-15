@@ -40,7 +40,7 @@ VALUES ('$names', '$mail', '$msg')";
                 <i class="fa-solid fa-bars"></i>
             </nav>
             <div class="header-text">
-                <p>web & app developer</p>
+                <p>PHP - Laravel Developer</p>
                 <h1>Hi, I'm <span>Priyansh</span> <br>from India</h1>
             </div>   
         </div>    
@@ -63,11 +63,8 @@ VALUES ('$names', '$mail', '$msg')";
                 </div>
                 <div class="about-col-2">
                     <h1 class="sub-title">About me</h1>
-                    <p>As a Full Stack Developer, I become the jack of all techs, which means I must learn and be proficient in:
-                        HTML, CSS, UI & UX, JavaScript, etc.
-                        Server-side languages such as Java, Python, Node.js, Or Golang, etc.
-                        Frameworks Express, Spring Boot, Django, etc.
-                        Along with an understanding of System Design, Data Structures and Algorithms, Databases, and version control systems like Git.</p>
+                    <p>Entry-level PHP Laravel developer with hands-on experience in building web apps using Laravel and Filament. Passionate
+ about clean code, smart UIs, and solving real-world problems, Data Structures and Algorithms, Databases, and version control systems like Git. Quick to learn, easy to work with, and ready to deliver.</p>
                     <div class="tab-titles">
                         <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
                         <p class="tab-links" onclick="opentab('experince')">Experience</p>
@@ -75,17 +72,15 @@ VALUES ('$names', '$mail', '$msg')";
                 </div>
                 <div class="tab-contents active-tab" id="skills">
                     <ul>
-                        <li><span>web development</span><br>designing & develope web</li>
-                        <li><span>app development</span><br>designing & develope app</li>
-                        <li><span>cyber security</span><br>secure thr system</li>
+                        <li><span>PHP Programming</span><br>programing language</li>
+                        <li><span>Laravel</span><br>Framework</li>
+                        <li><span>Filament</span><br>Admin Panel</li>
                     </ul>
                 </div>
                 <div class="tab-contents" id="experince">
                     <ul>
-                        <li><span>2022-current</span><br>Intern & self employee at Ajurva technology</li>
-                        <li><span>2018-2022</span><br>self employee & co.owner at sagun immitation</li>
-
-                        
+                        <li><span>Apr2023 - Aug2024</span><br> Project Coordinator & Tech Learner at Sphere-Rays Technolabs Pvt. Ltd.</li>
+                        <li><span>Aug2022 - Jan2023</span><br>PHP Intern at Ajurva Technologies</li>
                     </ul>
                 </div>
                 <div class="tab-contents" id="education">
@@ -104,26 +99,18 @@ VALUES ('$names', '$mail', '$msg')";
             <h1 class="sub-title">my services</h1>
             <div class="services-list">
                 <div>
-                    <i class="fa-duotone fa-code"></i>
-                    <h2>Web Design & Development</h2>
-                    <p>Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network)</p>
+                    <i class="fa-solid fa-robot"></i>
+                    <h2>Custom Web Applications</h2>
+                    <p>I develop fully customized web applications using Laravel’s powerful MVC architecture. These applications are secure, scalable, and tailored specifically to meet your business needs.</p>
                     <a href="#">Learn more</a>
                 </div> 
                 
                 <div>
                     <i class="fa-brands fa-app-store-ios"></i>
-                    <h2>App Design & Development</h2>
-                    <p>Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital...</p>
+                    <h2>Admin Panel & Dashboard Solutions</h2>
+                    <p>I build intuitive and responsive admin panels using Laravel with technologies like Filament or Laravel Nova, ensuring easy data management and analytics for your business....</p>
                     <a href="#">Learn more</a>
                 </div>
-
-                <div>
-                    <i class="fa-solid fa-robot"></i>
-                    <h2>Cyber Security</h2>
-                    <p>Computer security, cybersecurity, or information technology security is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, sof…</p>
-                    <a href="#">Learn more</a>
-                </div>
-
             </div>
         </div>
     </div>
