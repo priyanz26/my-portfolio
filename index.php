@@ -79,8 +79,7 @@ VALUES ('$names', '$mail', '$msg')";
                 </div>
                 <div class="tab-contents" id="experince">
                     <ul>
-                        <li><span>Apr2023 - Aug2024</span><br> Project Coordinator & Tech Learner at Sphere-Rays Technolabs Pvt. Ltd.</li>
-                        <li><span>Aug2022 - Jan2023</span><br>PHP Intern at Ajurva Technologies</li>
+                        <li><span>Apr2023 - Aug2024</span><br> Catalog Manager & Tech Learner at Sphere-Rays Technolabs Pvt. Ltd.</li>
                     </ul>
                 </div>
                 <div class="tab-contents" id="education">
